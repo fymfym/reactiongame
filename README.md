@@ -10,4 +10,4 @@ External hardware:
 - 3 buttons
 - 3 lamps
 
-In my test setup, the lamps are embeded in the lamps. 
+In my test setup, the lamps are embeded in the buttons. 
